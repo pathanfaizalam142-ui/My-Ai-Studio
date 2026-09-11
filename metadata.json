@@ -1,0 +1,6 @@
+{
+  "name": "80s Retro Studio",
+  "description": "Transform photos into iconic 1980s retro aesthetics, Miami Vice styles, vintage yearbook portraits, and synthwave looks.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
